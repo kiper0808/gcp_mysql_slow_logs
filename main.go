@@ -17,7 +17,7 @@ import (
 const (
 	user     = "root"
 	password = "root"
-	host     = "127.0.0.1:13323"
+	host     = "127.0.0.1:3306"
 	dbName   = "slow_queries"
 )
 

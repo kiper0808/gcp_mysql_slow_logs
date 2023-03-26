@@ -1,2 +1,4 @@
 dev/db
 mysqlslow.json
+gcp_mysql_slow_logs
+.idea
